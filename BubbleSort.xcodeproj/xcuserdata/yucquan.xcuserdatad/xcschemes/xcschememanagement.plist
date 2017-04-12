@@ -9,6 +9,11 @@
 			<key>orderHint</key>
 			<integer>0</integer>
 		</dict>
+		<key>QuickSort.xcscheme</key>
+		<dict>
+			<key>orderHint</key>
+			<integer>2</integer>
+		</dict>
 		<key>SelectSort.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
@@ -18,6 +23,11 @@
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
 		<key>986D00201E9E05B400B53998</key>
+		<dict>
+			<key>primary</key>
+			<true/>
+		</dict>
+		<key>986D002B1E9E0A1000B53998</key>
 		<dict>
 			<key>primary</key>
 			<true/>
